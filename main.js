@@ -28,8 +28,8 @@ const SPEED = 150
 
 // load assets
 loadSprite("Skybox", "sprites/Skybox.png")
-loadSprite("Frog", "sprites/Frog.png")
-loadSprite("FrogRed", "sprites/Frog.png")
+loadSprite("Frog", "/790746F9-66B5-4DF7-A321-11C34F674EBC.jpeg")
+loadSprite("FrogRed", "/790746F9-66B5-4DF7-A321-11C34F674EBC.jpeg")
 
 // add a character to screen
   add([
