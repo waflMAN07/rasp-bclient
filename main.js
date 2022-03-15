@@ -1,5 +1,3 @@
-import kaboom from "kaboom"
-
 // initialize context
 kaboom({
   width: 960,
